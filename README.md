@@ -16,4 +16,4 @@ Este projeto é um sistema simples de **lista de tarefas** em Python, desenvolvi
 ## 🚀 Como executar
 1. Clone este repositório  
    ```bash
-   git clone https://github.com/seuusuario/todo-list.git
+   git clone https://github.com/liviasza/Meu-Primeiro-Projeto
